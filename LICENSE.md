@@ -1,6 +1,6 @@
-#### Copyright © 2020 / [Iuri Silva](https://github.com/iuricode)
+#### Copyright © 2025 / [Silas Andrade](https://github.com/SilasAndradev)
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, sem restrição nos direitos de usar, copiar, modificar e mesclar.
+Permission is granted, free of charge, to anyone obtaining a copy of this file, without restriction on the rights to use, copy, modify, and merge.
 
 #### Referências
 
