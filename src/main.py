@@ -1,5 +1,5 @@
-from jogo import jogo
+from gui import gui
 
 if __name__=='__main__':
-    JOGO = jogo()
-    JOGO.run()
+    QUIZ = gui()
+    QUIZ.run()
