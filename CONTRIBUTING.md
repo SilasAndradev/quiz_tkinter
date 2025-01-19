@@ -1,14 +1,14 @@
-# Como contribuir?
+# How to contribute?
 
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/iuricode/readme-template/issues/new).
+This is a completely free project that accepts contributions via pull requests on GitHub. This document is responsible for aligning contributions according to the standards established therein. If you have any questions, [open an issue](https://github.com/SilasAndradev/quiz_tkinter/issues/new).
 
-## Passos
+## Steps
 
-1. Crie um fork deste repositório.
-2. Envie seus commits em português.
-3. Insira um pequeno resumo sobre o que foi adicionado.
-4. Solicite um pull request.
+1. Create a fork of this repository.
+2. Submit your commits in Portuguese.
+3. Enter a short summary of what was added.
+4. Request a pull request.
 
-## Recomendação (opcional)
+## Recommendation (optional)
 
-Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [padrões de commits](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
+For better semantics in commits, we recommend our repository on [commit standards](https://github.com/iuricode/padroes-de-commits). This will make it easier to evaluate your pull request.
