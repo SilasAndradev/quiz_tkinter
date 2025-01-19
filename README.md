@@ -10,7 +10,7 @@
 
 > The quiz asks questions with 5 alternatives and counts the correct answers
 
-### Ajustes e melhorias
+### Adjustments and improvements
 
 The project is still under development and the next updates will focus on the following tasks:
 
@@ -25,8 +25,6 @@ The project is still under development and the next updates will focus on the fo
 Before you begin, make sure you have met the following requirements:
 
 - You have installed version 3.8.10 or higher of `Python`
-<!--- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.-->
 
 ## 🚀 Installing tkinter quiz
 To install the quiz_tkinter, follow these steps:
@@ -43,17 +41,6 @@ Windows:
 git clone https://github.com/SilasAndradev/quiz_tkinter.git
 ```
 
-<!--## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-cd quiz_tkinter
-
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
--->
 
 ## 📫 Contributing to quiz_tkinter
 
