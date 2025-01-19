@@ -9,7 +9,7 @@ class jogo:
         self.master = Tk()
         self.master.title("Quiz")
         self.master.geometry('400x500')
-        self.master.iconbitmap("Quiz/assets/icon.ico")
+        self.master.iconbitmap("assets/icon.ico")
 
         self.color_background = "#F0F0EC"
         self.color_background_text = "#87ceeb"
@@ -64,7 +64,7 @@ class jogo:
 
     def StartGame(self):
         try:
-            with open('Quiz/assets/question.json', encoding='utf-8') as file:
+            with open('assets/question.json', encoding='utf-8') as file:
                 self.questions_archive = json.load(file)
         except Exception as e:
             messagebox.showerror("Something is wrong", e)
@@ -116,7 +116,6 @@ class jogo:
             for self.question_number in self.question_numbers:
                 for quesitons_and_response in self.questions_archive["question" + str(self.number_question)]:
                     if quesitons_and_response[1] == self.player_answers[self.number_question_for_check] :
-                        print(self.player_answers)
                         self.score += 1
                         break
                     break
