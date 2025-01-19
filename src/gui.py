@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import ttk, messagebox
 import json
-from PIL import ImageTk, Image, ImageDraw
 from random import choice
 
 class gui:
