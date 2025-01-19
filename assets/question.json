@@ -1,0 +1,52 @@
+{
+    "question1":[
+        [
+            "Which country has won the \nmost FIFA World Cups?",
+            "Brazil",
+            "Argentina", 
+            "Germany",
+            "Italy",
+            "France"
+        ]
+    ],
+    "question2":[
+        [
+            "Who is the author of the \n'Harry Potter' book series?",
+            "J.K. Rowling",
+            "George R.R. Martin",
+            "Stephen King",
+            "Suzanne Collins",
+            "Rick Riordan"
+        ]
+    ],
+    "question3":[
+        [
+            "Who discovered America in 1492?",
+            "Christopher Columbus", 
+            "Ferdinand Magellan",
+            "Vasco da Gama",
+            "Marco Polo",
+            "Amerigo Vespucci"
+        ]
+    ],
+    "question4":[
+        [
+            "Which planet is known \nas the 'Red Planet'?",
+            "Mars",
+            "Venus",
+            "Mercury",
+            "Jupiter",
+            "Saturn"
+        ]
+    ],
+    "question5":[
+        [
+            "What is the capital \ncity of France?",
+            "Paris",
+            "Madrid",
+            "Rome",
+            "Berlin",
+            "London"
+        ]
+    ]
+}
